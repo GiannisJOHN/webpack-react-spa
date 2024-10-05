@@ -9,3 +9,5 @@ dist/
 
 # Ignore IDE settings
 .vscode/
+
+DEV-notes.md
