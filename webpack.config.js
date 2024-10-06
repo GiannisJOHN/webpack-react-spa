@@ -8,7 +8,7 @@ module.exports = {
     main: "./src/index.js",
   },
   output: {
-    filename: "js/[name].bundle.js",
+    filename: "js/[name].[contenthash].js",
     path: path.resolve(__dirname, "dist"),
     assetModuleFilename: "assets/[hash][ext][query]",
     clean: true,

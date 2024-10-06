@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hi from WebPack!!</h1>
+      <p>hi</p>
       <img src={hiphop} alt="" style={{ width: "800px" }} />
       <p>My first webpack app generates an html file.</p>
       <p>webPack server works</p>
