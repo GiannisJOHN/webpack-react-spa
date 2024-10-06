@@ -1,0 +1,818 @@
+[
+  {
+    "german": "abbrechen",
+    "greek": "διακόπτω"
+  },
+  {
+    "german": "abgeben",
+    "greek": "παραδίνω"
+  },
+  {
+    "german": "abonnieren",
+    "greek": "εγγράφομαι"
+  },
+  {
+    "german": "achten",
+    "greek": "προσέχω"
+  },
+  {
+    "german": "aktivieren",
+    "greek": "ενεργοποιώ"
+  },
+  {
+    "german": "akzeptieren",
+    "greek": "αποδέχομαι"
+  },
+  {
+    "german": "anbieten",
+    "greek": "προσφέρω"
+  },
+  {
+    "german": "ändern",
+    "greek": "αλλάζω"
+  },
+  {
+    "german": "anfangen",
+    "greek": "αρχίζω"
+  },
+  {
+    "german": "anfragen",
+    "greek": "ζητώ πληροφορίες"
+  },
+  {
+    "german": "antworten",
+    "greek": "απαντώ"
+  },
+  {
+    "german": "arbeiten",
+    "greek": "δουλεύω"
+  },
+  {
+    "german": "aussteigen",
+    "greek": "κατεβαίνω"
+  },
+  {
+    "german": "auswählen",
+    "greek": "επιλέγω"
+  },
+  {
+    "german": "basieren",
+    "greek": "βασίζομαι"
+  },
+  {
+    "german": "beachten",
+    "greek": "προσέχω"
+  },
+  {
+    "german": "beginnen",
+    "greek": "αρχίζω"
+  },
+  {
+    "german": "behalten",
+    "greek": "να διατηρήσω"
+  },
+  {
+    "german": "bekommen",
+    "greek": "λαμβάνω"
+  },
+  {
+    "german": "benötigen",
+    "greek": "έχω ανάγκη"
+  },
+  {
+    "german": "benutzen",
+    "greek": "χρησιμοποιώ"
+  },
+  {
+    "german": "beraten",
+    "greek": "συμβουλεύω"
+  },
+  {
+    "german": "berechnen",
+    "greek": "λογαριάζω"
+  },
+  {
+    "german": "berichten",
+    "greek": "ενημερώνω"
+  },
+  {
+    "german": "besitzen",
+    "greek": "κατέχω"
+  },
+  {
+    "german": "bestellen",
+    "greek": "παραγγέλνω"
+  },
+  {
+    "german": "bewegen",
+    "greek": "κινώ"
+  },
+  {
+    "german": "bewerten",
+    "greek": "αξιολογώ"
+  },
+  {
+    "german": "bezahlen",
+    "greek": "πληρώνω"
+  },
+  {
+    "german": "bieten",
+    "greek": "προσφέρω"
+  },
+  {
+    "german": "bitten",
+    "greek": "παρακαλώ"
+  },
+  {
+    "german": "bleiben",
+    "greek": "μένω"
+  },
+  {
+    "german": "brauchen",
+    "greek": "χρειάζομαι"
+  },
+  {
+    "german": "brennen",
+    "greek": "καίω"
+  },
+  {
+    "german": "bringen",
+    "greek": "φέρνω"
+  },
+  {
+    "german": "buchen",
+    "greek": "κλείνω"
+  },
+  {
+    "german": "definieren",
+    "greek": "καθορίζω"
+  },
+  {
+    "german": "denken",
+    "greek": "νομίζω"
+  },
+  {
+    "german": "dienen",
+    "greek": "εξυπηρετώ"
+  },
+  {
+    "german": "diskutieren",
+    "greek": "συζητώ"
+  },
+  {
+    "german": "drucken",
+    "greek": "τυπώνω"
+  },
+  {
+    "german": "drücken",
+    "greek": "πιέζω"
+  },
+  {
+    "german": "dürfen",
+    "greek": "επιτρέπεται να"
+  },
+  {
+    "german": "einstellen",
+    "greek": "ρυθμίζω"
+  },
+  {
+    "german": "empfehlen",
+    "greek": "συνιστώ"
+  },
+  {
+    "german": "entfernen",
+    "greek": "απομακρύνω"
+  },
+  {
+    "german": "ergeben",
+    "greek": "δείχνω"
+  },
+  {
+    "german": "erhalten",
+    "greek": "λαμβάνω"
+  },
+  {
+    "german": "erhöhen",
+    "greek": "αυξάνω"
+  },
+  {
+    "german": "erkennen",
+    "greek": "αναγνωρίζω"
+  },
+  {
+    "german": "erklären",
+    "greek": "εξηγώ"
+  },
+  {
+    "german": "erlauben",
+    "greek": "επιτρέπω"
+  },
+  {
+    "german": "erleben",
+    "greek": "βιώνω"
+  },
+  {
+    "german": "ermitteln",
+    "greek": "εξακριβώνω"
+  },
+  {
+    "german": "ermöglichen",
+    "greek": "κάνω δυνατό"
+  },
+  {
+    "german": "eröffnen",
+    "greek": "ανοίγω"
+  },
+  {
+    "german": "erreichen",
+    "greek": "φθάνω"
+  },
+  {
+    "german": "erscheinen",
+    "greek": "εμφανίζομαι"
+  },
+  {
+    "german": "ersetzen",
+    "greek": "αντικαθιστώ"
+  },
+  {
+    "german": "erwarten",
+    "greek": "αναμένω"
+  },
+  {
+    "german": "erweitern",
+    "greek": "επεκτείνω"
+  },
+  {
+    "german": "erwerben",
+    "greek": "αποκτώ"
+  },
+  {
+    "german": "essen",
+    "greek": "τρώω"
+  },
+  {
+    "german": "existieren",
+    "greek": "υπάρχω"
+  },
+  {
+    "german": "fahren",
+    "greek": "οδηγώ"
+  },
+  {
+    "german": "fallen",
+    "greek": "πέφτω"
+  },
+  {
+    "german": "fangen",
+    "greek": "πιάνω"
+  },
+  {
+    "german": "fehlen",
+    "greek": "λείπω"
+  },
+  {
+    "german": "feiern",
+    "greek": "γιορτάζω"
+  },
+  {
+    "german": "finden",
+    "greek": "βρίσκω"
+  },
+  {
+    "german": "fliegen",
+    "greek": "πετάω"
+  },
+  {
+    "german": "folgen",
+    "greek": "ακολουθώ"
+  },
+  {
+    "german": "fordern",
+    "greek": "απαιτώ"
+  },
+  {
+    "german": "fragen",
+    "greek": "ρωτώ"
+  },
+  {
+    "german": "fühlen",
+    "greek": "αισθάνομαι"
+  },
+  {
+    "german": "funktionieren",
+    "greek": "λειτουργώ"
+  },
+  {
+    "german": "garantieren",
+    "greek": "εγγυούμαι για"
+  },
+  {
+    "german": "geben",
+    "greek": "δίνω"
+  },
+  {
+    "german": "gefallen",
+    "greek": "αρέσω"
+  },
+  {
+    "german": "gehen",
+    "greek": "πηγαίνω"
+  },
+  {
+    "german": "gehören",
+    "greek": "ανήκω"
+  },
+  {
+    "german": "gewinnen",
+    "greek": "κερδίζω"
+  },
+  {
+    "german": "glauben",
+    "greek": "πιστεύω"
+  },
+  {
+    "german": "haben",
+    "greek": "έχω"
+  },
+  {
+    "german": "halten",
+    "greek": "κρατώ"
+  },
+  {
+    "german": "hängen",
+    "greek": "κρεμάω"
+  },
+  {
+    "german": "heißen",
+    "greek": "ονομάζομαι"
+  },
+  {
+    "german": "helfen",
+    "greek": "βοηθώ"
+  },
+  {
+    "german": "herunterladen",
+    "greek": "κατεβάζω"
+  },
+  {
+    "german": "hoffen",
+    "greek": "ελπίζω"
+  },
+  {
+    "german": "holen",
+    "greek": "φέρνω"
+  },
+  {
+    "german": "hören",
+    "greek": "ακούω"
+  },
+  {
+    "german": "informieren",
+    "greek": "πληροφορώ"
+  },
+  {
+    "german": "installieren",
+    "greek": "εγκαθιστώ"
+  },
+  {
+    "german": "kaufen",
+    "greek": "αγοράζω"
+  },
+  {
+    "german": "kennen",
+    "greek": "γνωρίζω"
+  },
+  {
+    "german": "kommen",
+    "greek": "έρχομαι"
+  },
+  {
+    "german": "können",
+    "greek": "μπορώ"
+  },
+  {
+    "german": "kontaktieren",
+    "greek": "επικοινωνώ με κάποιον"
+  },
+  {
+    "german": "kosten",
+    "greek": "στοιχίζω"
+  },
+  {
+    "german": "lassen",
+    "greek": "αφήνω"
+  },
+  {
+    "german": "laufen",
+    "greek": "τρέχω"
+  },
+  {
+    "german": "leben",
+    "greek": "ζω"
+  },
+  {
+    "german": "legen",
+    "greek": "θέτω"
+  },
+  {
+    "german": "leisten",
+    "greek": "κατορθώνω"
+  },
+  {
+    "german": "lernen",
+    "greek": "μαθαίνω"
+  },
+  {
+    "german": "lesen",
+    "greek": "διαβάζω"
+  },
+  {
+    "german": "lieben",
+    "greek": "αγαπώ"
+  },
+  {
+    "german": "liefern",
+    "greek": "παραδίδω"
+  },
+  {
+    "german": "liegen",
+    "greek": "ξαπλώνω"
+  },
+  {
+    "german": "lösen",
+    "greek": "λύνω"
+  },
+  {
+    "german": "lügen",
+    "greek": "ψεύδομαι"
+  },
+  {
+    "german": "machen",
+    "greek": "κάνω"
+  },
+  {
+    "german": "markieren",
+    "greek": "μαρκάρω"
+  },
+  {
+    "german": "meinen",
+    "greek": "εννοώ"
+  },
+  {
+    "german": "melden",
+    "greek": "ανακοινώνω"
+  },
+  {
+    "german": "merken",
+    "greek": "αντιλαμβάνομαι"
+  },
+  {
+    "german": "mitmachen",
+    "greek": "συμμετέχω"
+  },
+  {
+    "german": "mögen",
+    "greek": "μου αρέσει"
+  },
+  {
+    "german": "müssen",
+    "greek": "πρέπει"
+  },
+  {
+    "german": "nehmen",
+    "greek": "παίρνω"
+  },
+  {
+    "german": "nennen",
+    "greek": "ονομάζω"
+  },
+  {
+    "german": "nutzen",
+    "greek": "ωφελώ"
+  },
+  {
+    "german": "öffnen",
+    "greek": "ανοίγω"
+  },
+  {
+    "german": "passieren",
+    "greek": "συμβαίνει"
+  },
+  {
+    "german": "planen",
+    "greek": "σχεδιάζω"
+  },
+  {
+    "german": "präsentieren",
+    "greek": "παρουσιάζω"
+  },
+  {
+    "german": "prüfen",
+    "greek": "εξετάζω"
+  },
+  {
+    "german": "rechnen",
+    "greek": "υπολογίζω"
+  },
+  {
+    "german": "reden",
+    "greek": "μιλώ"
+  },
+  {
+    "german": "reichen",
+    "greek": "φτάνω"
+  },
+  {
+    "german": "rennen",
+    "greek": "τρέχω"
+  },
+  {
+    "german": "rufen",
+    "greek": "φωνάζω"
+  },
+  {
+    "german": "sagen",
+    "greek": "λέω"
+  },
+  {
+    "german": "sammeln",
+    "greek": "συλλέγω"
+  },
+  {
+    "german": "schaffen",
+    "greek": "καταφέρνω"
+  },
+  {
+    "german": "schauen",
+    "greek": "κοιτάζω"
+  },
+  {
+    "german": "scheinen",
+    "greek": "λάμπω"
+  },
+  {
+    "german": "schicken",
+    "greek": "στέλνω"
+  },
+  {
+    "german": "schlafen",
+    "greek": "κοιμάμαι"
+  },
+  {
+    "german": "schlagen",
+    "greek": "χτυπώ"
+  },
+  {
+    "german": "schließen",
+    "greek": "κλείνω"
+  },
+  {
+    "german": "schneiden",
+    "greek": "κόβω"
+  },
+  {
+    "german": "schreiben",
+    "greek": "γράφω"
+  },
+  {
+    "german": "schreien",
+    "greek": "κραυγάζω"
+  },
+  {
+    "german": "schützen",
+    "greek": "προστατεύω"
+  },
+  {
+    "german": "schwimmen",
+    "greek": "κολυμπώ"
+  },
+  {
+    "german": "sehen",
+    "greek": "βλέπω"
+  },
+  {
+    "german": "sein",
+    "greek": "είμαι"
+  },
+  {
+    "german": "sichern",
+    "greek": "ασφαλίζω"
+  },
+  {
+    "german": "singen",
+    "greek": "τραγουδώ"
+  },
+  {
+    "german": "sitzen",
+    "greek": "κάθομαι"
+  },
+  {
+    "german": "sollen",
+    "greek": "πρέπει"
+  },
+  {
+    "german": "sparen",
+    "greek": "εξοικονομώ"
+  },
+  {
+    "german": "spazieren",
+    "greek": "περπατώ"
+  },
+  {
+    "german": "spielen",
+    "greek": "παίζω"
+  },
+  {
+    "german": "sprechen",
+    "greek": "μιλώ"
+  },
+  {
+    "german": "springen",
+    "greek": "πηδάω"
+  },
+  {
+    "german": "stehen",
+    "greek": "στέκομαι"
+  },
+  {
+    "german": "stehlen",
+    "greek": "κλέβω"
+  },
+  {
+    "german": "steigen",
+    "greek": "ανεβαίνω"
+  },
+  {
+    "german": "stellen",
+    "greek": "βάζω"
+  },
+  {
+    "german": "sterben",
+    "greek": "πεθαίνω"
+  },
+  {
+    "german": "stimmen",
+    "greek": "αληθεύει"
+  },
+  {
+    "german": "studieren",
+    "greek": "σπουδάζω"
+  },
+  {
+    "german": "suchen",
+    "greek": "αναζητώ"
+  },
+  {
+    "german": "teilen",
+    "greek": "μοιράζω"
+  },
+  {
+    "german": "telefonieren",
+    "greek": "τηλεφωνώ"
+  },
+  {
+    "german": "tragen",
+    "greek": "φορώ"
+  },
+  {
+    "german": "treffen",
+    "greek": "συναντώ"
+  },
+  {
+    "german": "treten",
+    "greek": "κλοτσώ"
+  },
+  {
+    "german": "trinken",
+    "greek": "πίνω"
+  },
+  {
+    "german": "tun",
+    "greek": "κάνω"
+  },
+  {
+    "german": "übernehmen",
+    "greek": "αναλαμβάνω"
+  },
+  {
+    "german": "überprüfen",
+    "greek": "ελέγχω"
+  },
+  {
+    "german": "unterstützen",
+    "greek": "υποστηρίζω"
+  },
+  {
+    "german": "verändern",
+    "greek": "αλλάζω"
+  },
+  {
+    "german": "verbessern",
+    "greek": "βελτιώνω"
+  },
+  {
+    "german": "verdienen",
+    "greek": "κερδίζω"
+  },
+  {
+    "german": "vergeben",
+    "greek": "συγχωρώ"
+  },
+  {
+    "german": "vergessen",
+    "greek": "ξεχνώ"
+  },
+  {
+    "german": "vergleichen",
+    "greek": "συγκρίνω"
+  },
+  {
+    "german": "vergrößern",
+    "greek": "μεγαλώνω"
+  },
+  {
+    "german": "verkaufen",
+    "greek": "πουλώ"
+  },
+  {
+    "german": "verlassen",
+    "greek": "εγκαταλείπω"
+  },
+  {
+    "german": "verlieren",
+    "greek": "χάνω"
+  },
+  {
+    "german": "vermeiden",
+    "greek": "αποφεύγω"
+  },
+  {
+    "german": "verpassen",
+    "greek": "χάνω"
+  },
+  {
+    "german": "verwenden",
+    "greek": "χρησιμοποιώ"
+  },
+  {
+    "german": "vorkommen",
+    "greek": "εμφανίζομαι"
+  },
+  {
+    "german": "vorschlagen",
+    "greek": "προτείνω"
+  },
+  {
+    "german": "wandern",
+    "greek": "πεζοπορώ"
+  },
+  {
+    "german": "warten",
+    "greek": "περιμένω"
+  },
+  {
+    "german": "waschen",
+    "greek": "πλένω"
+  },
+  {
+    "german": "wechseln",
+    "greek": "αλλάζω"
+  },
+  {
+    "german": "wenden",
+    "greek": "γυρίζω"
+  },
+  {
+    "german": "werden",
+    "greek": "γίνομαι"
+  },
+  {
+    "german": "wirken",
+    "greek": "επιδρώ"
+  },
+  {
+    "german": "wissen",
+    "greek": "ξέρω"
+  },
+  {
+    "german": "wohnen",
+    "greek": "κατοικώ"
+  },
+  {
+    "german": "wollen",
+    "greek": "θέλω"
+  },
+  {
+    "german": "wünschen",
+    "greek": "εύχομαι"
+  },
+  {
+    "german": "zahlen",
+    "greek": "πληρώνω"
+  },
+  {
+    "german": "ziehen",
+    "greek": "τραβώ"
+  }
+]
