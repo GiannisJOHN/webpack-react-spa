@@ -48,6 +48,12 @@ module.exports = {
     },
     runtimeChunk: "single",
   },
+  resolve: {
+    alias: {
+      '#': path.resolve(__dirname, 'src'), // Add @ as alias for src directory
+    },
+    extensions: ['.js', '.jsx'], // Automatically resolve these extensions
+  },
   devtool: "source-map", //change for production
   devServer: {
     static: "./dist",
