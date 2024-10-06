@@ -1,12 +1,16 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+//const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = {
     mode: "development",
-    entry: './src/index.js',
+    entry: {
+        main: './src/index.js',  // Main app entry point
+        //vendors: ['react', 'react-dom'],  // Separate vendor entry point, using substitution in the file name is enough
+      },
     output: {
-        filename: 'main.js',
+        filename: '[name].bundle.js',
         path: path.resolve(__dirname, 'dist'),
         clean: true //cleaning the dist folder
     },
@@ -30,6 +34,14 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({ template: './index.html' }),
-        new MiniCssExtractPlugin
-    ]
+        new MiniCssExtractPlugin()
+
+    ],
+    optimization: {
+        splitChunks: {
+            // include all types of chunks
+            chunks: 'all',
+        },
+        runtimeChunk: 'single'
+    }
 };
